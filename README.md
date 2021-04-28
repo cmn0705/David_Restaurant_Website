@@ -1,4 +1,4 @@
-*Tags: html,css,javascript
+*Tags: html,css,javascript*
 
 [**David Restaurant Web Application**](https://cmn0705.github.io/David_Restaurant_Website/index.html)
 
